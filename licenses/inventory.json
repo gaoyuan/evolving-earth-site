@@ -1,0 +1,367 @@
+[
+  {
+    "name": "@cesium/engine",
+    "version": "19.0.0",
+    "license": "Apache-2.0",
+    "files": [
+      "_cesium_engine_19.0.0/LICENSE.md",
+      "_cesium_engine_19.0.0/package.json"
+    ]
+  },
+  {
+    "name": "@zip.js/zip.js",
+    "version": "2.7.70",
+    "license": "BSD-3-Clause",
+    "files": [
+      "_zip.js_zip.js_2.7.70/LICENSE",
+      "_zip.js_zip.js_2.7.70/package.json"
+    ]
+  },
+  {
+    "name": "@cesium/wasm-splats",
+    "version": "0.1.0-alpha.2",
+    "license": "Apache-2.0",
+    "files": [
+      "_cesium_wasm-splats_0.1.0-alpha.2/package.json"
+    ]
+  },
+  {
+    "name": "@protobufjs/aspromise",
+    "version": "1.1.2",
+    "license": "BSD-3-Clause",
+    "files": [
+      "_protobufjs_aspromise_1.1.2/LICENSE",
+      "_protobufjs_aspromise_1.1.2/package.json"
+    ]
+  },
+  {
+    "name": "@protobufjs/base64",
+    "version": "1.1.2",
+    "license": "BSD-3-Clause",
+    "files": [
+      "_protobufjs_base64_1.1.2/LICENSE",
+      "_protobufjs_base64_1.1.2/package.json"
+    ]
+  },
+  {
+    "name": "@protobufjs/codegen",
+    "version": "2.0.5",
+    "license": "BSD-3-Clause",
+    "files": [
+      "_protobufjs_codegen_2.0.5/LICENSE",
+      "_protobufjs_codegen_2.0.5/package.json"
+    ]
+  },
+  {
+    "name": "@protobufjs/eventemitter",
+    "version": "1.1.1",
+    "license": "BSD-3-Clause",
+    "files": [
+      "_protobufjs_eventemitter_1.1.1/LICENSE",
+      "_protobufjs_eventemitter_1.1.1/package.json"
+    ]
+  },
+  {
+    "name": "@protobufjs/fetch",
+    "version": "1.1.1",
+    "license": "BSD-3-Clause",
+    "files": [
+      "_protobufjs_fetch_1.1.1/LICENSE",
+      "_protobufjs_fetch_1.1.1/package.json"
+    ]
+  },
+  {
+    "name": "@protobufjs/float",
+    "version": "1.0.2",
+    "license": "BSD-3-Clause",
+    "files": [
+      "_protobufjs_float_1.0.2/LICENSE",
+      "_protobufjs_float_1.0.2/package.json"
+    ]
+  },
+  {
+    "name": "@protobufjs/path",
+    "version": "1.1.2",
+    "license": "BSD-3-Clause",
+    "files": [
+      "_protobufjs_path_1.1.2/LICENSE",
+      "_protobufjs_path_1.1.2/package.json"
+    ]
+  },
+  {
+    "name": "@protobufjs/pool",
+    "version": "1.1.0",
+    "license": "BSD-3-Clause",
+    "files": [
+      "_protobufjs_pool_1.1.0/LICENSE",
+      "_protobufjs_pool_1.1.0/package.json"
+    ]
+  },
+  {
+    "name": "@protobufjs/utf8",
+    "version": "1.1.2",
+    "license": "BSD-3-Clause",
+    "files": [
+      "_protobufjs_utf8_1.1.2/LICENSE",
+      "_protobufjs_utf8_1.1.2/package.json"
+    ]
+  },
+  {
+    "name": "@spz-loader/core",
+    "version": "0.3.0",
+    "license": "Apache-2.0",
+    "files": [
+      "_spz-loader_core_0.3.0/LICENSE.txt",
+      "_spz-loader_core_0.3.0/package.json"
+    ]
+  },
+  {
+    "name": "@tweenjs/tween.js",
+    "version": "25.0.0",
+    "license": "MIT",
+    "files": [
+      "_tweenjs_tween.js_25.0.0/LICENSE",
+      "_tweenjs_tween.js_25.0.0/package.json"
+    ]
+  },
+  {
+    "name": "@types/node",
+    "version": "26.6.6",
+    "license": "MIT",
+    "files": [
+      "_types_node_26.6.6/LICENSE",
+      "_types_node_26.6.6/package.json"
+    ]
+  },
+  {
+    "name": "@types/trusted-types",
+    "version": "2.0.7",
+    "license": "MIT",
+    "files": [
+      "_types_trusted-types_2.0.7/LICENSE",
+      "_types_trusted-types_2.0.7/package.json"
+    ]
+  },
+  {
+    "name": "autolinker",
+    "version": "4.1.5",
+    "license": "MIT",
+    "files": [
+      "autolinker_4.1.5/LICENSE",
+      "autolinker_4.1.5/package.json"
+    ]
+  },
+  {
+    "name": "bitmap-sdf",
+    "version": "1.0.4",
+    "license": "MIT",
+    "files": [
+      "bitmap-sdf_1.0.4/package.json"
+    ]
+  },
+  {
+    "name": "cesium",
+    "version": "1.132.0",
+    "license": "Apache-2.0",
+    "files": [
+      "cesium_1.132.0/LICENSE.md",
+      "cesium_1.132.0/package.json"
+    ]
+  },
+  {
+    "name": "@cesium/widgets",
+    "version": "13.0.0",
+    "license": "Apache-2.0",
+    "files": [
+      "_cesium_widgets_13.0.0/LICENSE.md",
+      "_cesium_widgets_13.0.0/package.json"
+    ]
+  },
+  {
+    "name": "commander",
+    "version": "2.20.3",
+    "license": "MIT",
+    "files": [
+      "commander_2.20.3/LICENSE",
+      "commander_2.20.3/package.json"
+    ]
+  },
+  {
+    "name": "dompurify",
+    "version": "3.4.17",
+    "license": "(MPL-2.0 OR Apache-2.0)",
+    "files": [
+      "dompurify_3.4.17/LICENSE",
+      "dompurify_3.4.17/LICENSE-MPL",
+      "dompurify_3.4.17/package.json"
+    ]
+  },
+  {
+    "name": "draco3d",
+    "version": "1.5.9",
+    "license": "Apache-2.0",
+    "files": [
+      "draco3d_1.5.9/package.json"
+    ]
+  },
+  {
+    "name": "earcut",
+    "version": "3.2.4",
+    "license": "ISC",
+    "files": [
+      "earcut_3.2.4/LICENSE",
+      "earcut_3.2.4/package.json"
+    ]
+  },
+  {
+    "name": "grapheme-splitter",
+    "version": "1.0.4",
+    "license": "MIT",
+    "files": [
+      "grapheme-splitter_1.0.4/LICENSE",
+      "grapheme-splitter_1.0.4/package.json"
+    ]
+  },
+  {
+    "name": "jsep",
+    "version": "1.6.0",
+    "license": "MIT",
+    "files": [
+      "jsep_1.6.0/LICENSE",
+      "jsep_1.6.0/package.json"
+    ]
+  },
+  {
+    "name": "kdbush",
+    "version": "4.1.0",
+    "license": "ISC",
+    "files": [
+      "kdbush_4.1.0/LICENSE",
+      "kdbush_4.1.0/package.json"
+    ]
+  },
+  {
+    "name": "ktx-parse",
+    "version": "1.1.0",
+    "license": "MIT",
+    "files": [
+      "ktx-parse_1.1.0/LICENSE",
+      "ktx-parse_1.1.0/package.json"
+    ]
+  },
+  {
+    "name": "lerc",
+    "version": "2.0.0",
+    "license": "Apache-2.0",
+    "files": [
+      "lerc_2.0.0/package.json"
+    ]
+  },
+  {
+    "name": "long",
+    "version": "5.3.2",
+    "license": "Apache-2.0",
+    "files": [
+      "long_5.3.2/LICENSE",
+      "long_5.3.2/package.json"
+    ]
+  },
+  {
+    "name": "mersenne-twister",
+    "version": "1.1.0",
+    "license": "MIT",
+    "files": [
+      "mersenne-twister_1.1.0/package.json"
+    ]
+  },
+  {
+    "name": "meshoptimizer",
+    "version": "0.24.0",
+    "license": "MIT",
+    "files": [
+      "meshoptimizer_0.24.0/LICENSE.md",
+      "meshoptimizer_0.24.0/package.json"
+    ]
+  },
+  {
+    "name": "nosleep.js",
+    "version": "0.12.0",
+    "license": "MIT",
+    "files": [
+      "nosleep.js_0.12.0/LICENSE",
+      "nosleep.js_0.12.0/package.json"
+    ]
+  },
+  {
+    "name": "pako",
+    "version": "2.2.0",
+    "license": "(MIT AND Zlib)",
+    "files": [
+      "pako_2.2.0/LICENSE",
+      "pako_2.2.0/package.json"
+    ]
+  },
+  {
+    "name": "protobufjs",
+    "version": "7.6.6",
+    "license": "BSD-3-Clause",
+    "files": [
+      "protobufjs_7.6.6/LICENSE",
+      "protobufjs_7.6.6/package.json"
+    ]
+  },
+  {
+    "name": "quickselect",
+    "version": "3.0.0",
+    "license": "ISC",
+    "files": [
+      "quickselect_3.0.0/LICENSE",
+      "quickselect_3.0.0/package.json"
+    ]
+  },
+  {
+    "name": "rbush",
+    "version": "4.0.1",
+    "license": "MIT",
+    "files": [
+      "rbush_4.0.1/LICENSE",
+      "rbush_4.0.1/package.json"
+    ]
+  },
+  {
+    "name": "topojson-client",
+    "version": "3.1.0",
+    "license": "ISC",
+    "files": [
+      "topojson-client_3.1.0/LICENSE",
+      "topojson-client_3.1.0/package.json"
+    ]
+  },
+  {
+    "name": "tslib",
+    "version": "2.9.1",
+    "license": "0BSD",
+    "files": [
+      "tslib_2.9.1/LICENSE.txt",
+      "tslib_2.9.1/package.json"
+    ]
+  },
+  {
+    "name": "undici-types",
+    "version": "8.9.0",
+    "license": "MIT",
+    "files": [
+      "undici-types_8.9.0/LICENSE",
+      "undici-types_8.9.0/package.json"
+    ]
+  },
+  {
+    "name": "urijs",
+    "version": "1.19.11",
+    "license": "MIT",
+    "files": [
+      "urijs_1.19.11/LICENSE.txt",
+      "urijs_1.19.11/package.json"
+    ]
+  }
+]

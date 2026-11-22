@@ -1,0 +1,319 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "speciesId": "stromatolite",
+      "url": "illustrations/stromatolite.76928bc98ecc.svg",
+      "sha256": "76928bc98ecc39a8b7bc1bc43570aa08feb436cdda4416e5e8a30c459224cbf6",
+      "bytes": 32026,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "nasa-stromatolites",
+        "nps-precambrian"
+      ]
+    },
+    {
+      "speciesId": "cloudina",
+      "url": "illustrations/cloudina.5c34338bd114.svg",
+      "sha256": "5c34338bd1142607d0636c42e31d627b195bd7d7f50d670219f03584acb2a52c",
+      "bytes": 72749,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "cloudina-reef-study",
+        "pbdb-taxon-cloudina"
+      ]
+    },
+    {
+      "speciesId": "cycad",
+      "url": "illustrations/cycad.da020b712501.svg",
+      "sha256": "da020b7125015cf97baa3ab4cfa16cf3e46b9cd76426905637f0df77fb23f3c6",
+      "bytes": 76087,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "ucla-cycads",
+        "pbdb-taxon-cycad"
+      ]
+    },
+    {
+      "speciesId": "prodeinotherium",
+      "url": "illustrations/prodeinotherium.550c9900017d.svg",
+      "sha256": "550c9900017db8be0cb9ffb4acde5e20f4c4489a8dfa02d3dba34cd493b3624b",
+      "bytes": 35667,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "pbdb-taxon-prodeinotherium",
+        "pbdb-prodeinotherium-age-records",
+        "ucmp-proboscidea"
+      ]
+    },
+    {
+      "speciesId": "trilobite",
+      "url": "illustrations/trilobite.ac96e41b6a10.svg",
+      "sha256": "ac96e41b6a10b284ead5796f05153d6c14f384be13525c0b85a3087a78097303",
+      "bytes": 46067,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "pbdb-taxon-trilobite",
+        "ucmp-trilobite"
+      ]
+    },
+    {
+      "speciesId": "anomalocaris",
+      "url": "illustrations/anomalocaris.d8e75be3e434.svg",
+      "sha256": "d8e75be3e434ceeb38dafafff0c0c695b31ee51a049d7eb6e663d730a67bb575",
+      "bytes": 39673,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "pbdb-taxon-anomalocaris",
+        "burgess-anomalocaris"
+      ]
+    },
+    {
+      "speciesId": "archaeocyatha",
+      "url": "illustrations/archaeocyatha.7f03ea348f54.svg",
+      "sha256": "7f03ea348f54d52e0e50a6f203b292346ec518463371ee46c0ead65a2bbc2106",
+      "bytes": 69244,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "pbdb-taxon-archaeocyatha",
+        "ucmp-archaeocyatha"
+      ]
+    },
+    {
+      "speciesId": "graptolite",
+      "url": "illustrations/graptolite.e0c9cf02e1ca.svg",
+      "sha256": "e0c9cf02e1cabc8c92aaba66e4270dc1b4615b4f375ad9b3ee45cd91a8163508",
+      "bytes": 3837,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "pbdb-taxon-graptolite",
+        "ucmp-graptolite"
+      ]
+    },
+    {
+      "speciesId": "brachiopod",
+      "url": "illustrations/brachiopod.d918942e593b.svg",
+      "sha256": "d918942e593b9e511d4ca40c64604e608af1059799ff011e2cc63719ffd10162",
+      "bytes": 2182,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "pbdb-taxon-brachiopod",
+        "ucmp-brachiopod"
+      ]
+    },
+    {
+      "speciesId": "cooksonia",
+      "url": "illustrations/cooksonia.6fbac335e1dc.svg",
+      "sha256": "6fbac335e1dcaff3429053313a3a2da006f3c2516f3cd5824768597a1ebf9cae",
+      "bytes": 35365,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "pbdb-taxon-cooksonia",
+        "ucmp-early-plants"
+      ]
+    },
+    {
+      "speciesId": "dunkleosteus",
+      "url": "illustrations/dunkleosteus.bcd4b61001f1.svg",
+      "sha256": "bcd4b61001f16ba05a1cf0d25ca96f86f05bbe5f513397560b78e3c395f8ad42",
+      "bytes": 20373,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "pbdb-taxon-dunkleosteus",
+        "ucmp-placoderm"
+      ]
+    },
+    {
+      "speciesId": "tiktaalik",
+      "url": "illustrations/tiktaalik.ac6b4b1e7df1.svg",
+      "sha256": "ac6b4b1e7df141a33c1216e0cc64cf8e76ae498b666c4b5f929561a79b76c62b",
+      "bytes": 20064,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "pbdb-taxon-tiktaalik",
+        "tiktaalik-project"
+      ]
+    },
+    {
+      "speciesId": "archaeopteris",
+      "url": "illustrations/archaeopteris.3a6357fc6fe5.svg",
+      "sha256": "3a6357fc6fe5b8173d578f25539de239b519fb7d02e1cd3e1fd3613594722dd3",
+      "bytes": 14314,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "pbdb-taxon-archaeopteris",
+        "ucmp-progymnosperm"
+      ]
+    },
+    {
+      "speciesId": "lepidodendron",
+      "url": "illustrations/lepidodendron.c772d79d3e0f.svg",
+      "sha256": "c772d79d3e0fbba66c3873abae1d263ee0bfca2b4854cf3f137b99adc7c379aa",
+      "bytes": 52574,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "pbdb-taxon-lepidodendron",
+        "ucmp-lycophyta"
+      ]
+    },
+    {
+      "speciesId": "meganeura",
+      "url": "illustrations/meganeura.58b552cf3f91.svg",
+      "sha256": "58b552cf3f91fb1a8d2be43d4d7a3d08cae05a082d7368066b46938346c1d856",
+      "bytes": 29859,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "pbdb-taxon-meganeura",
+        "ucmp-carboniferous"
+      ]
+    },
+    {
+      "speciesId": "lystrosaurus",
+      "url": "illustrations/lystrosaurus.9fdfc8d18d94.svg",
+      "sha256": "9fdfc8d18d943d32f98c2e2f631ecfc363d2859dbc8dd32d0d3a0ddfbb319551",
+      "bytes": 27360,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "pbdb-taxon-lystrosaurus",
+        "ucmp-therapsid"
+      ]
+    },
+    {
+      "speciesId": "coelophysis",
+      "url": "illustrations/coelophysis.a21293fbea51.svg",
+      "sha256": "a21293fbea5173fdb92e69a6265ee3c30077b973aba7e5ffbac2473bab1f32ab",
+      "bytes": 2158,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "pbdb-taxon-coelophysis",
+        "nhm-coelophysis"
+      ]
+    },
+    {
+      "speciesId": "diplodocus",
+      "url": "illustrations/diplodocus.3563b2a009d2.svg",
+      "sha256": "3563b2a009d2d300546f580fdc63a892b7dad5a4f078e2572f683113add23e56",
+      "bytes": 30513,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "pbdb-taxon-diplodocus",
+        "nhm-diplodocus"
+      ]
+    },
+    {
+      "speciesId": "archaeopteryx",
+      "url": "illustrations/archaeopteryx.d707130b78d4.svg",
+      "sha256": "d707130b78d4401f6e56f78236e6a4a1e9ee3b643303fc436fadbedd0b50beb9",
+      "bytes": 3705,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "pbdb-taxon-archaeopteryx",
+        "ucmp-birds",
+        "nhm-archaeopteryx"
+      ]
+    },
+    {
+      "speciesId": "stegosaurus",
+      "url": "illustrations/stegosaurus.92868e661328.svg",
+      "sha256": "92868e66132850135b5dae66ce67dfa196edd94a3c57a24ccd3f15c5add08e11",
+      "bytes": 36463,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "pbdb-taxon-stegosaurus",
+        "nhm-stegosaurus"
+      ]
+    },
+    {
+      "speciesId": "tyrannosaurus",
+      "url": "illustrations/tyrannosaurus.68cd1950f0ba.svg",
+      "sha256": "68cd1950f0baa62a774a6e9dfdd8211b1c91a8fe4d656202530181088148ec38",
+      "bytes": 40875,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "pbdb-taxon-tyrannosaurus",
+        "nhm-tyrannosaurus"
+      ]
+    },
+    {
+      "speciesId": "triceratops",
+      "url": "illustrations/triceratops.fc0b777ee303.svg",
+      "sha256": "fc0b777ee3031ac0e05458064a8f158b2fa4acee8ee19a937ac19f56d3df10a7",
+      "bytes": 2573,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "pbdb-taxon-triceratops",
+        "nhm-triceratops"
+      ]
+    },
+    {
+      "speciesId": "ammonoid",
+      "url": "illustrations/ammonoid.cba9e004e9cf.svg",
+      "sha256": "cba9e004e9cf4b100f51945b1cb75c1133ec855a9c061becc6bac0c85e2b5d19",
+      "bytes": 45506,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "pbdb-taxon-ammonoid",
+        "ucmp-ammonoid"
+      ]
+    },
+    {
+      "speciesId": "deinotherium",
+      "url": "illustrations/deinotherium.11334934e07b.svg",
+      "sha256": "11334934e07b17686ef0241f7b1d776b194a65216173902d80f36b4fffe0785c",
+      "bytes": 35521,
+      "kind": "schematic-2d",
+      "license": "project-original",
+      "attribution": "Evolving Earth original schematic illustration",
+      "sourceIds": [
+        "pbdb-taxon-deinotherium",
+        "ucmp-proboscidea"
+      ]
+    }
+  ]
+}
