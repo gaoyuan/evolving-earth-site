@@ -1,6 +1,6 @@
 const BASE = new URL('./', self.location.href);
 const PREFIX = `evolving-earth:${BASE.pathname}:`;
-const CACHE = `${PREFIX}shell:1795262092216`;
+const CACHE = `${PREFIX}shell:1795315154802`;
 const SHELL = [".","index.html","earth.svg","offline-assets.json","assets/earth-3d-CvKDzu3a.css","assets/index-B6CaaxDY.css","assets/index-gGgbrmYW.js"];
 self.addEventListener('install', event => {
   event.waitUntil((async () => {
@@ -31,7 +31,7 @@ self.addEventListener('message', event => {
         const response = await cache.match(new URL(path, BASE));
         if (!response?.ok) missing.push(path);
       }
-      event.ports[0].postMessage({ ok: missing.length === 0, detail: missing.join(', '), version: '1795262092216' });
+      event.ports[0].postMessage({ ok: missing.length === 0, detail: missing.join(', '), version: '1795315154802' });
     } catch (error) {
       event.ports[0].postMessage({ ok: false, detail: String(error) });
     }
